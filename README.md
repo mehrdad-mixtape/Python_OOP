@@ -1,4 +1,4 @@
-# Python OOP
+# Python OOP Tutorial
 ## Basic Python Object Oriented Programming
 
 ![image](https://github.com/mehrdad-mixtape/Python_OOP/blob/master/index.png)
